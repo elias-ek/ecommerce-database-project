@@ -2,7 +2,7 @@
 This collaborative project was conducted along with three other students as part of a course on data modeling and database systems. The main focus of the task was to design and implement the database, with additional requirements for including a functional front- and backend for the site. The database is implemented using SQL in MariaDB, with a Python + Flask backend, and a React frontend.
 
 # My Contribution
-The database was designed collaboratively, with team-wide discussions about how the database should be designed and imlemented. Additionally, I created the frontend using React.js, with Vite as the build- and development tool, as well as react-router-dom for handling the routing of the website.
+The database was designed collaboratively, with team-wide discussions about how the database should be designed and ipmlemented. Additionally, I created the frontend using React.js, with Vite as the build- and development tool, as well as react-router-dom for handling the routing of the website.
 
 # Installation and Usage
 ## Dependencies
