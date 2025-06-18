@@ -9,12 +9,12 @@ The database was designed collaboratively, with team-wide discussions about how 
 ### Backend Dependencies
   - Python 3.12.9 (potentially works on other versions)
   - Flask - `pip install flask`
-  - Flask Cors - `pip install flask-cors`
+  - Flask Cors - `pip install flask-cors` \
 The current backend setup requires the database to be named *ecommercedatabase*, and the database to be hosted locally. The SQL scripts used to initialize the database are included, and should be aboe to run on any database management system, but we used MariaDB.
 ### Frontend Dependencies  
   - Node.js
   - React.js
-  - react-router-dom
+  - react-router-dom \
 All dependencies can be installed by starting a terminal in the frontend directory and writing `npm install`.
 The frontend was run during development through the npm local development server.
 
@@ -47,4 +47,4 @@ Use the navbar at the top to access the different pages.
        - Check out by clicking 'go to checkout'
   - Checkout
       - Input username and password and choose payment method
-      - Press 'subimt'; text will notify the user that the purchase was complete, and an entry will be added         to the database.   
+      - Press 'subimt'; text will notify the user that the purchase was complete, and an entry will be added to the database.   
